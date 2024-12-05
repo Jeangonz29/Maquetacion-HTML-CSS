@@ -2,7 +2,7 @@
 <h1 align="center">Maquetacion de Spotify 👋</h1>
 </div>
 
- ## 📋 Desarrollo basico del front end de Spotify, con herramientas como HTML y CSS
+ ## 📋 Desarrollo basico del front end de Spotify, con herramientas como HTML y CSS 
  <br>
  
  🚀 Mis primeras lineas de codigo con HTML5 y CSS3
