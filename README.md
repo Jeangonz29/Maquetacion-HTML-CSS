@@ -16,6 +16,6 @@ _Para comenzar solo necesitas:_
    > 
 ```
 > Visual Studio Code
-> Notepad++
+> Atom
 > Entre otros
 ```
